@@ -1,5 +1,5 @@
 <?php
 
-echo 'Helpppppxfdghfghfghfgh me';
+echo 'Help me';
 
 ?>
